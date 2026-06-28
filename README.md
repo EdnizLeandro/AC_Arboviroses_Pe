@@ -3,9 +3,6 @@ Modelo de Autômatos Celulares para simulação de disseminação de arboviroses
 ## 📝 Descrição Completa para o Repositório **AC_Arboviroses_Pe**
 
 ---
-
-### 🔹 **README.md Principal (Detalhado e Engajante)**:
-
 ```markdown
 # AC_Arboviroses_Pe  
 Autômatos Celulares para Simulação de Arboviroses em Pernambuco
