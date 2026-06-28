@@ -1,5 +1,6 @@
 # AC_Arboviroses_Pe
-Modelo de Autômatos Celulares para simulação de disseminação de arboviroses (dengue, chikungunya, zika) em Pernambuco,  integrado com dados reais do SINAN.
+Modelo de Autômatos Celulares para simulação acadêmica (UFRPE) de disseminação de arboviroses (dengue, chikungunya, zika) em Pernambuco,  integrado com dados reais do SINAN.
+
 ## 📝 Descrição Completa para o Repositório **AC_Arboviroses_Pe**
 
 ---
@@ -91,15 +92,6 @@ AC_Arboviroses_Pe/
 
 ---
 
-## 🤝 Como Contribuir  
-Contribuições são *muito* bem-vindas!  
-1. Abra uma issue para discutir sugestões  
-2. Faça um fork do repositório  
-3. Crie uma branch para sua feature (`git checkout -b feature/nova-funcionalidade`)  
-4. Envie um pull request!  
-
----
-
 ## 📄 Licença  
 Este projeto está sob a **Licença MIT** — veja o arquivo LICENSE para detalhes.
 
@@ -111,15 +103,3 @@ Este projeto está sob a **Licença MIT** — veja o arquivo LICENSE para detalh
 - Comunidade Python por bibliotecas incríveis  
 
 ---
-*Projeto criado para estudar arboviroses em Pernambuco — Saúde pública é ciência!* 🧬🦟
-```
-
----
-
-### 🔹 **Tags (Topics) do GitHub**:  
-Adicione essas tags para aumentar a visibilidade do repositório:
-`epidemiology` `cellular-automata` `dengue` `zika` `chikungunya` `pernambuco` `brazil` `public-health` `simulation` `python` `sinan` `sir-model`
-
----
-
-Essa descrição é **clara, completa e convidativa** — explica o propósito, o que o repo oferece, como usar e convida à colaboração! 😊
