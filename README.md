@@ -78,7 +78,7 @@ AC_Arboviroses_Pe/
 | Característica          | Detalhes                                  |
 |--------------------------|--------------------------------------------|
 | Fonte                    | SINAN/MS (Ministério da Saúde do Brasil)  |
-| Período                  | 2000–2026                                  |
+| Período                  | 2000 - 2026                               |
 | Total de Registros       | 33,6 milhões (Brasil) + 227.566 (PE)      |
 | Arboviroses              | Dengue, Chikungunya, Zika, Febre de Mayaro|
 
@@ -93,7 +93,7 @@ AC_Arboviroses_Pe/
 ---
 
 ## 📄 Licença  
-Este projeto está sob a **Licença MIT** — veja o arquivo LICENSE para detalhes.
+Este projeto está sob a **Licença MIT** - veja o arquivo LICENSE para detalhes.
 
 ---
 
