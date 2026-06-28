@@ -1,12 +1,6 @@
 # AC_Arboviroses_Pe
 Modelo de Autômatos Celulares para simulação acadêmica (UFRPE) de disseminação de arboviroses (dengue, chikungunya, zika) em Pernambuco,  integrado com dados reais do SINAN.
 
-## 📝 Descrição Completa para o Repositório **AC_Arboviroses_Pe**
-
----
-# AC_Arboviroses_Pe  
-Autômatos Celulares para Simulação de Arboviroses em Pernambuco
-
 ---
 
 ## 📋 Sobre o Projeto  
