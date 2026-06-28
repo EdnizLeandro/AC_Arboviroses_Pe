@@ -4,13 +4,6 @@ Modelo de Autômatos Celulares para simulação de disseminação de arboviroses
 
 ---
 
-### 🔹 **Seção "About" do GitHub (Curta e Direta)**:
-```
-Modelo de Autômatos Celulares para simulação de disseminação de arboviroses (dengue, chikungunya, zika) em Pernambuco, Brasil — integrado com dados reais do SINAN.
-```
-
----
-
 ### 🔹 **README.md Principal (Detalhado e Engajante)**:
 
 ```markdown
