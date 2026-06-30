@@ -142,9 +142,7 @@ Este projeto está licenciado sob a **Licença MIT**. Consulte o arquivo `LICENS
 
 ## 👥 Autor
 
-**[Seu Nome]**
-- GitHub: [@seu_usuario]
-- LinkedIn: [seu_linkedin]
+**[Edniz Leandro]**
 
 ## 🙏 Agradecimentos
 
@@ -153,7 +151,3 @@ Este projeto está licenciado sob a **Licença MIT**. Consulte o arquivo `LICENS
 - **Equipe Streamlit** - Framework incrível para construção de dashboards.
 
 ---
-
-<p align="center">
-  Feito com ❤️ e Python
-</p>
