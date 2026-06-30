@@ -107,8 +107,6 @@ Um pipeline completo de validação de dados foi implementado para garantir a qu
 3. **Campo `CS_SEXO`**: Valores vazios. Solução: Filtro de registros inválidos.
 4. **Campo `CLASSI_FIN`**: Altas taxas de valores nulos (22,23%). Solução: Tratamento como dados faltantes.
 
-O relatório completo de validação de dados está disponível em `Artigo/RELATORIO_PRINCIPAL_VALIDACAO_DADOS.md`.
-
 ## Tecnologias Utilizadas
 
 | Tecnologia | Versão | Uso |
