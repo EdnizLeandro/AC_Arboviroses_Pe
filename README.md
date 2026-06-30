@@ -138,16 +138,6 @@ O relatório completo de validação de dados está disponível em `Artigo/RELAT
 - **Relatório de Validação de Dados**: `Artigo/RELATORIO_PRINCIPAL_VALIDACAO_DADOS.md` - Detalhes do pipeline de validação e qualidade dos dados.
 - **Dicionário de Dados**: Disponível no dashboard na página "Dicionário de Dados".
 
-## 🤝 Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para:
-
-1. Fazer um fork do projeto
-2. Criar uma branch para sua feature (`git checkout -b feature/NovaFeature`)
-3. Fazer commit das suas alterações (`git commit -m 'Adiciona NovaFeature'`)
-4. Fazer push para a branch (`git push origin feature/NovaFeature`)
-5. Abrir um Pull Request
-
 ## 📄 Licença
 
 Este projeto está licenciado sob a **Licença MIT**. Consulte o arquivo `LICENSE` para mais detalhes.
