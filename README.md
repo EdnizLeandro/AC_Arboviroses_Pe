@@ -50,20 +50,12 @@ O dashboard é composto por 5 páginas principais:
 
 ```
 .
-├── app.py                          # Arquivo principal do dashboard Streamlit
+├── app.py                          # Arquivo principal do Streamlit (OBRIGATÓRIO)
+├── requirements.txt                # Lista de dependências Python (OBRIGATÓRIO)
+├── README.md                       # Documentação do projeto (OBRIGATÓRIO)
+│
 ├── arbovirose_final_pe.parquet     # Dataset de arboviroses (SINAN)
-├── Municipios de Pe.xlsx           # Dados dos municípios (IBGE)
-├── requirements.txt                # Lista de dependências Python
-├── analisar_idade.py               # Script para análise do campo idade
-├── analisar_idade_completo.py      # Análise detalhada da idade
-├── analisar_idade_por_ano.py       # Análise por ano
-├── gerar_relatorio_validacao.py    # Script para gerar relatório de validação
-├── verificar_outras_metricas.py    # Validação de outras métricas
-├── verificar_sexo.py               # Validação do campo sexo
-├── Artigo/
-│   ├── Artigo_Arboviroses_Pernambuco.md    # Artigo sobre o projeto
-│   └── RELATORIO_PRINCIPAL_VALIDACAO_DADOS.md  # Relatório de validação de dados
-└── README.md                       # Este arquivo!
+└── Municipios de Pe.xlsx           # Dados dos municípios (IBGE)
 ```
 
 ## Como Executar
