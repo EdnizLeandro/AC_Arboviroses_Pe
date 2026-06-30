@@ -118,7 +118,7 @@ Um pipeline completo de validação de dados foi implementado para garantir a qu
 | **NumPy** | Última | Computação numérica |
 | **Matplotlib** | Última | Visualizações 2D (autômato celular) |
 | **PyArrow** | Última | Leitura de arquivos Parquet |
-| **OpenPyXL** | Última | Leitura de arquivos Excel |
+| **OpenPyXL** | Última | Leitura de arquivos Excel | 
 
 ## Documentação Adicional
 
