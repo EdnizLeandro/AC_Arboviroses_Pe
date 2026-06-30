@@ -136,6 +136,6 @@ Este projeto está licenciado sob a **Licença MIT**. Consulte o arquivo `LICENS
 
 - **Secretaria Estadual de Saúde de Pernambuco** - Fornecimento dos dados do SINAN.
 - **Instituto Brasileiro de Geografia e Estatística (IBGE)** - Dados socioeconômicos dos municípios.
-- **Equipe Streamlit** - Framework incrível para construção de dashboards.
+- **Equipe Streamlit** - Framework para construção de dashboards.
 
 ---
