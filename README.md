@@ -50,9 +50,9 @@ O dashboard é composto por 5 páginas principais:
 
 ```
 .
-├── app.py                          # Arquivo principal do Streamlit (OBRIGATÓRIO)
-├── requirements.txt                # Lista de dependências Python (OBRIGATÓRIO)
-├── README.md                       # Documentação do projeto (OBRIGATÓRIO)
+├── app.py                          # Arquivo principal do Streamlit 
+├── requirements.txt                # Lista de dependências Python 
+├── README.md                       # Documentação do projeto 
 │
 ├── arbovirose_final_pe.parquet     # Dataset de arboviroses (SINAN)
 └── Municipios de Pe.xlsx           # Dados dos municípios (IBGE)
