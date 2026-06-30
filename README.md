@@ -91,7 +91,7 @@ O dashboard é composto por 5 páginas principais:
    streamlit run app.py
    ```
 
-4. **Acesse no navegador**
+4.   4. **Acesse no navegador**
    - O dashboard abrirá automaticamente no navegador padrão
    - Se não abrir, acesse: `http://localhost:8501`
 
