@@ -122,8 +122,6 @@ Um pipeline completo de validação de dados foi implementado para garantir a qu
 
 ## Documentação Adicional
 
-- **Artigo sobre o Projeto**: `Artigo/Artigo_Arboviroses_Pernambuco.md` - Documento completo com introdução, metodologia, resultados e discussão.
-- **Relatório de Validação de Dados**: `Artigo/RELATORIO_PRINCIPAL_VALIDACAO_DADOS.md` - Detalhes do pipeline de validação e qualidade dos dados.
 - **Dicionário de Dados**: Disponível no dashboard na página "Dicionário de Dados".
 
 ## Licença
