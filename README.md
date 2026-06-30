@@ -8,15 +8,15 @@
   <img alt="License" src="https://img.shields.io/badge/License-MIT-green?style=flat-square">
 </p>
 
-## 📖 Descrição Geral
+## Descrição Geral
 
 Este projeto implementa um **dashboard interativo** para análise de dados de **arboviroses** (dengue, zika e chikungunya) no estado de Pernambuco, Brasil, no período de 2000 a 2026. A ferramenta integra dados do **Sistema de Informação de Agravos de Notificação (SINAN)** com informações socioeconômicas dos municípios de Pernambuco do **Instituto Brasileiro de Geografia e Estatística (IBGE)**, além de um **modelo de autômato celular** para simular a propagação das arboviroses usando o modelo SIR.
 
-## ✨ Funcionalidades Principais
+## Funcionalidades Principais
 
 O dashboard é composto por 5 páginas principais:
 
-1. **📊 Visão Geral dos Dados**
+1. **Visão Geral dos Dados**
    - Indicadores principais (total de casos, idade média, taxa de hospitalização, taxa de óbito)
    - Gráficos de tendências temporais
    - Distribuição por sexo e classificação final
@@ -24,29 +24,29 @@ O dashboard é composto por 5 páginas principais:
    - Principais sintomas
    - Filtros interativos por ano, classificação e sexo
 
-2. **🏙️ Municípios de PE**
+2. **Municípios de PE**
    - Lista completa dos 186 municípios pernambucanos
    - Dados socioeconômicos detalhados (população, área, IDH, PIB per capita)
    - Casos de arboviroses por município
    - Gráficos de tendências por município selecionado
 
-3. **🤖 Simulação com Autômato Celular Dinâmico**
+3. **Simulação com Autômato Celular Dinâmico**
    - Modelo SIR implementado com autômato celular
    - Parâmetros ajustáveis (taxa de transmissão, taxa de recuperação, tamanho da grade, etc.)
    - Controles de play/pausa/passo
    - Visualização do estado do grid em tempo real
    - Gráfico de evolução temporal dos compartimentos (Suscetível, Infectado, Recuperado)
 
-4. **📚 Dicionário de Dados - SINAN**
+4. **Dicionário de Dados - SINAN**
    - Documentação completa das variáveis do SINAN utilizadas
    - Descrições e categorias para cada campo
 
-5. **ℹ️ Sobre o Projeto**
+5. **Sobre o Projeto**
    - Visão geral do projeto
    - Fonte dos dados
    - Tecnologias utilizadas
 
-## 📂 Estrutura do Repositório
+## Estrutura do Repositório
 
 ```
 .
@@ -66,7 +66,7 @@ O dashboard é composto por 5 páginas principais:
 └── README.md                       # Este arquivo!
 ```
 
-## 🚀 Como Executar
+## Como Executar
 
 ### Pré-requisitos
 
@@ -93,20 +93,20 @@ O dashboard é composto por 5 páginas principais:
    - O dashboard abrirá automaticamente no navegador padrão
    - Se não abrir, acesse: `http://localhost:8501`
 
-## 📋 Requisitos do Sistema
+## Requisitos do Sistema
 
 - Sistema Operacional: Windows, macOS ou Linux
 - Memória RAM: 4GB (8GB recomendado para performance)
 - Armazenamento: 500MB de espaço livre (para o dataset Parquet)
 
-## 📊 Fonte dos Dados
+## Fonte dos Dados
 
 | Fonte | Período | Tipo |
 |-------|---------|------|
 | **SINAN** (Ministério da Saúde) | 2000-2026 | Casos de arboviroses |
 | **IBGE** | 2010-2025 | Dados socioeconômicos dos municípios |
 
-## 🔍 Validação de Dados
+## Validação de Dados
 
 Um pipeline completo de validação de dados foi implementado para garantir a qualidade das análises. Os principais problemas identificados e corrigidos:
 
@@ -117,7 +117,7 @@ Um pipeline completo de validação de dados foi implementado para garantir a qu
 
 O relatório completo de validação de dados está disponível em `Artigo/RELATORIO_PRINCIPAL_VALIDACAO_DADOS.md`.
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 | Tecnologia | Versão | Uso |
 |------------|--------|-----|
@@ -130,21 +130,21 @@ O relatório completo de validação de dados está disponível em `Artigo/RELAT
 | **PyArrow** | Última | Leitura de arquivos Parquet |
 | **OpenPyXL** | Última | Leitura de arquivos Excel |
 
-## 📚 Documentação Adicional
+## Documentação Adicional
 
 - **Artigo sobre o Projeto**: `Artigo/Artigo_Arboviroses_Pernambuco.md` - Documento completo com introdução, metodologia, resultados e discussão.
 - **Relatório de Validação de Dados**: `Artigo/RELATORIO_PRINCIPAL_VALIDACAO_DADOS.md` - Detalhes do pipeline de validação e qualidade dos dados.
 - **Dicionário de Dados**: Disponível no dashboard na página "Dicionário de Dados".
 
-## 📄 Licença
+## Licença
 
 Este projeto está licenciado sob a **Licença MIT**. Consulte o arquivo `LICENSE` para mais detalhes.
 
-## 👥 Autor
+## Autor
 
 **Edniz Leandro**
 
-## 🙏 Agradecimentos
+## Agradecimentos
 
 - **Secretaria Estadual de Saúde de Pernambuco** - Fornecimento dos dados do SINAN.
 - **Instituto Brasileiro de Geografia e Estatística (IBGE)** - Dados socioeconômicos dos municípios.
