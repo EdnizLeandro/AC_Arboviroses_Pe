@@ -50,6 +50,7 @@ O dashboard é composto por 5 páginas principais:
 
 ```
 .
+├── Artigo_Arbovirose_Pe
 ├── app.py                          # Arquivo principal do Streamlit 
 ├── requirements.txt                # Lista de dependências Python 
 ├── README.md                       # Documentação do projeto 
